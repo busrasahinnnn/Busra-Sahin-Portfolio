@@ -9,7 +9,7 @@ const services = [
       num: "01",
       title: "UI/UX Design",
       description:
-        "I design intuitive and engaging user interfaces using tools like Figma and Adobe XD, ensuring a smooth user experience across web platforms.",
+        "I design intuitive and engaging user interfaces using tools like Figma, ensuring a smooth user experience across web platforms.",
       href: "/services/ui-ux",
     },
     {

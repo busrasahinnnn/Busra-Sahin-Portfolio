@@ -24,8 +24,8 @@ const projects = [
   {
     num: '01',
     category: 'frontend',
-    title: 'project 1',
-    description: "This is a simple frontend UI built with semantic HTML and responsive layout principles.",
+    title: 'Foteza App UI/UX Design',
+    description: "Foteza is a creative collaboration platform. I designed its high-fidelity UI in Figma, focusing on a smooth user experience and clean visual hierarchy to help businesses connect with creatives like videographers and photographers.",
     stack: [
       { name: "Html 5" },
       { name: "Css 3" },
@@ -34,22 +34,22 @@ const projects = [
     image: '/assets/work/photo1.png',
     live: "https://foteza.app/",
     github: "https://github.com",
-  },
+  },  
   {
     num: '02',
     category: 'fullstack',
-    title: 'Recipe App',
+    title: 'Sweet Dreams Cookie Shop',
     description:
-      'A full-stack recipe management app where users can create, update, and delete recipes. Built using React.js for the frontend and Node.js + MongoDB for the backend.',
+      'A full-stack e-commerce app for a cookie shop where users can browse cookie varieties, select pack sizes, add to cart, and place orders. Built using React.js for the frontend, Node.js for the backend, and MongoDB for the database.',
     stack: [
       { name: 'React.js' },
       { name: 'Node.js' },
       { name: 'MongoDB' },
     ],
     image: '/assets/work/photo2.png',
-    live: 'https://yourrecipeapp.com',
-    github: 'https://github.com/yourusername/recipe-app',
-  },
+    live: 'https://yourcookiesshop.com',
+    github: 'https://github.com/yourusername/sweet-dreams-app',
+  }
 ];
 
 const Work = () => {
