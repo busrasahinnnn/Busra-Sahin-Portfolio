@@ -21,11 +21,11 @@ const Salesforce = () => {
           </h1>
 
           <p className="text-white/80 text-lg">
-            I build and customize Salesforce applications using Apex, Lightning Web Components, Process Builder, and Flow. My expertise also includes integrating Salesforce with third-party platforms and optimizing CRM workflows for businesses.
+          I build and customize Salesforce applications using Flows, and create custom objects, master-detail relationships, and formula fields. 
           </p>
 
           <p className="text-white/70 text-base">
-            I'm actively sharpening my Salesforce skills through Trailhead, earning badges and exploring new Salesforce features.
+          I’m actively growing my skills on Trailhead and staying current with new Salesforce features.
           </p>
 
           <Link

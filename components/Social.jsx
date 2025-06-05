@@ -4,8 +4,6 @@ import { FaGithub, FaLinkedinIn, FaYoutube, FaTwitter } from "react-icons/fa";
 const socials = [
   { icon: <FaGithub />, path: "https://github.com/busrasahinnnn" },
   { icon: <FaLinkedinIn />, path: "https://www.linkedin.com/in/busra-sahin-82a1bb27b/" },
-  { icon: <FaYoutube />, path: "" },
-  { icon: <FaTwitter />, path: "" },
 ];
 
 const Social = ({ containerStyles, iconStyles }) => {

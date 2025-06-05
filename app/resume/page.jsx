@@ -26,7 +26,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About Me",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "I'm Busra Sahin, a former educator turned passionate software developer. I build responsive and user-centered web and mobile applications using React, Firebase, and Salesforce. I also design intuitive interfaces with Figma and bring ideas to life through platforms like MongoDB, Node.js, and Django. I love crafting digital solutions that are both functional and beautiful.",
   info: [
     {
       fieldName: "Name",
@@ -73,7 +73,7 @@ const experience = {
     {
       company: "Foteza",
       position: "UI/UX Designer",
-      duration: "October 2024-Present",
+      duration: "October 2024-April 2025",
     },
   ],
 };
